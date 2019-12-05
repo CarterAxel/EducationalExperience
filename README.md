@@ -1,4 +1,4 @@
-# Axel Bouteiller - Educational experience - Cristalens
+# Axel Bouteiller - Educational experience
 
 Kuka robot programming software
 -------------------------------
